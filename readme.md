@@ -1,6 +1,6 @@
 # Building a Chatbot with Azure Functions and LangChain
 
-![image](https://github.com/user-attachments/assets/2f00c331-4b55-4d41-adf7-1ee5cd596a7e)
+![image-5](https://github.com/user-attachments/assets/493e9870-ba2c-4879-b96e-f945b128fc20)
 
 
 ## Introduction
