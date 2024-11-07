@@ -7,7 +7,7 @@
 
 This project guides you through creating a serverless, scalable chatbot using Azure Functions and LangChain. Leveraging Azure Functions alongside LangChain for language model support, this application performs tasks such as document processing, querying, and response generation using OpenAI’s embeddings model and Pinecone for vector storage.
 
-For additional details, please refer to the original blog post on WordPress: [Building a Chatbot with Azure Functions and LangChain: A Comprehensive Guide](https://ivansingleton.dev/building-a-chatbot-with-azure-functions-and-langchain-a-comprehensive-guide).
+For additional details, please refer to the original blog post on WordPress: [Building a Chatbot with Azure Functions and LangChain: A Comprehensive Guide](https://ivansingleton.dev/creating-an-intelligent-assistant-with-azure-functions-and-langchain-part-i/).
 
 ## Prerequisites
 
